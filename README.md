@@ -8,6 +8,7 @@
 </br>
 </br>
 
+<a href="https://wakatime.com/@67a25e05-e597-4954-ba34-ff8fc8ed377f"><img src="https://wakatime.com/badge/user/67a25e05-e597-4954-ba34-ff8fc8ed377f.svg" alt="Total time coded since Dec 21 2020" /></a>
 
 # About ME 💬 :
 
@@ -95,5 +96,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img  src="https://github-readme-stats.vercel.app/api?username=BSxTitaN&&show_icons=true&theme=radical"/>
   </a>
   </p>
+  
+  
 
 *************
