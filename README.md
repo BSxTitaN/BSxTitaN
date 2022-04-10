@@ -21,10 +21,11 @@
 - ✨ ML and AI
 
 ### - Hobbies : 
+- ✨ Love Making Models
+- ✨ Programming
+- ✨ Being Perfect at Literally Everything
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Being Perfect at Literally Everything
-- ✨ Cricket (LOB)
 
 </br>
 </br>
