@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAhu283W6wtDKEzbI53W41bQ">
 </div>
 
 </br>
@@ -61,7 +61,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://i.gifer.com/14lL.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
