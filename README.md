@@ -9,7 +9,7 @@
 </br>
 
 <a href="https://wakatime.com/@67a25e05-e597-4954-ba34-ff8fc8ed377f"><img src="https://wakatime.com/badge/user/67a25e05-e597-4954-ba34-ff8fc8ed377f.svg" alt="Total time coded since Dec 21 2020" /></a> 
-- Click above to know my freelance contributions for all private repos.
+### - Click above to know my freelance contributions for all private repos.
 
 # About ME 💬 :
 
